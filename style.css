@@ -1,13 +1,14 @@
 .container {
   border: blue 2px solid;
-  border-radius: 5px;
-  width: 30%;
-  height: 600px;
-  margin: 0 auto;
+  border-radius: 55px;
+  width: 90%;
+  height: 1600px;
+  margin: 50px auto;
 }
 .container div {
   height: 50px;
   width: 50px;
   border-radius: 50%;
-  background-color: green;
+  border: blue 1px solid;
+  /*background-color: green;*/
 }
